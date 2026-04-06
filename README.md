@@ -38,7 +38,7 @@ End-to-end Natural Language Processing project analyzing customer reviews using 
 ---
 
 ## 📁 Project Structure
-
+```
 nlp-review-analytics/
 ├── data/
 │   ├── raw/                    ← generated review dataset
@@ -52,6 +52,7 @@ nlp-review-analytics/
 ├── powerbi/
 │   └── dashboard.pbix          ← Power BI dashboard
 └── README.md
+```
 
 ---
 
