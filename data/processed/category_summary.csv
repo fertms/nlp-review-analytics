@@ -1,0 +1,5 @@
+﻿category,total_reviews,avg_rating,avg_vader,pct_positive,pct_negative
+Books,67,3.46,0.28,47.76,20.9
+Clothing,54,3.15,0.22,44.44,31.48
+Electronics,79,3.29,0.22,39.24,25.32
+Food & Kitchen,47,3.23,0.3,44.68,27.66
